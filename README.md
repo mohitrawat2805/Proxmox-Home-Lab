@@ -397,32 +397,6 @@ All published configuration files should be reviewed and sanitized before upload
 - Add automated infrastructure health checks.
 - Document resource allocation and performance observations.
 
-## Suggested Repository Structure
-
-```text
-proxmox-home-lab/
-│
-├── README.md
-│
-├── documentation/
-│   ├── installation.md
-│   ├── host-configuration.md
-│   ├── virtual-machines.md
-│   ├── storage-management.md
-│   ├── networking.md
-│   ├── backup-and-recovery.md
-│   └── troubleshooting.md
-│
-├── diagrams/
-│   └── infrastructure-architecture.md
-│
-├── scripts/
-│   └── README.md
-│
-└── screenshots/
-    └── README.md
-```
-
 ## Learning Outcomes
 
 This project demonstrates practical experience with:
